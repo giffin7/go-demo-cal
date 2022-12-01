@@ -1,2 +1,3 @@
 this is my last commit
 please let us know the details
+echo "hai all"
